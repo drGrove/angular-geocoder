@@ -1,0 +1,39 @@
+{
+  "name": "angular-geocoder",
+  "version": "0.1.0",
+  "description": "AngularJS Google Maps Geocoder",
+  "main": "src/geocoder.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drGrove/angular-geocoder"
+  },
+  "keywords": [
+    "Google",
+    "Maps",
+    "Geocoder"
+  ],
+  "author": "Daniel Grove <danny@drgrovellc.com>",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/drGrove/angular-geocoder/issues"
+  },
+  "homepage": "https://github.com/drGrove/angular-geocoder",
+  "devDependencies": {
+    "karma-jasmine": "~0.1.5",
+    "grunt-karma": "~0.8.2",
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.10.0",
+    "load-grunt-tasks": "~0.4.0",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "jsdoc": "~3.3.0-alpha5",
+    "karma": "~0.12.10",
+    "karma-ng-html2js-preprocessor": "~0.1.0",
+    "karma-ng-scenario": "~0.1.0"
+  }
+}

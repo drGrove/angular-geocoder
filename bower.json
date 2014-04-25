@@ -1,0 +1,27 @@
+{
+  "name": "geocoder",
+  "version": "0.1.0",
+  "authors": [
+    "Danny Grove <danny@drgrovellc.com>"
+  ],
+  "description": "AngularJS geocoder module",
+  "main": "src/geocoder.js",
+  "keywords": [
+    "Google",
+    "Maps",
+    "Geocoder"
+  ],
+  "license": "AGPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.16",
+    "angular-mocks": "~1.2.16"
+  }
+}
