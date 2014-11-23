@@ -12,7 +12,7 @@
     "Geocoder"
   ],
   "license": "AGPL",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
